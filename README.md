@@ -85,12 +85,6 @@
       </a>
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -123,12 +117,6 @@
       </a>
       <br>Grafana
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Shell" />
-      </a>
-      <br>Shell
-    </td>
     <td align="center"  width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
@@ -146,6 +134,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Shell" />
+      </a>
+      <br>Shell
     </td>
     <td align="center" width="96">
       <a href="#" >
