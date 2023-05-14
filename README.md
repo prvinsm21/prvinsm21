@@ -44,7 +44,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="36">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
       </a>
@@ -93,10 +93,10 @@
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48" height="48" alt="Ansible" />
       </a>
-      <br>Postman
+      <br>Ansible
     </td>
   </tr>
   <tr>
