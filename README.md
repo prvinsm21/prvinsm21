@@ -68,6 +68,12 @@
       </a>
       <br>Jenkins
     </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github Actions" />
+      </a>
+      <br>Github Actions
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="48" height="48" alt="ArgoCD" />
@@ -79,12 +85,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
     </td>
     <td align="center" width="96">
       <a href="#">
